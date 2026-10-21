@@ -7,7 +7,7 @@ Este projeto consiste em uma **Engine (Motor de Processamento) Back-End** desenv
 ## 📽️ Demonstração e Apresentação em Vídeo
 
 O vídeo explicativo detalhando o funcionamento prático no terminal, arquitetura de software adotada e decisões de Orientação a Objetos está disponível em:
-👉 **[Clique aqui para assistir ao vídeo de apresentação](COLOQUE_SEU_LINK_DO_DRIVE_OU_YOUTUBE_AQUI)**
+👉 **[Clique aqui para assistir ao vídeo de apresentação](https://youtu.be/R-mCNPR8vWI)**
 
 ---
 
