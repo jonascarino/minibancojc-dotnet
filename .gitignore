@@ -1,0 +1,17 @@
+# Arquivos de compilação do .NET
+bin/
+obj/
+
+# Pastas de configuração do Visual Studio e VS Code
+.vs/
+.vscode/
+
+# Arquivos de preferências do usuário
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
